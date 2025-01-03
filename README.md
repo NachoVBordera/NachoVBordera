@@ -4,7 +4,7 @@
 
 
 
-Soy un apasionado Frontend Developer con experiencia en el desarrollo de aplicaciones web utilizando React y otras tecnologías web modernas. Estoy comprometido con la creación de experiencias de usuario excepcionales y la construcción de interfaces atractivas ,funcionales y accesibles. 💻🚀
+Frontend Developer con experiencia en el desarrollo de aplicaciones web utilizando React y otras tecnologías web modernas. Estoy comprometido con la creación de experiencias de usuario excepcionales y la construcción de interfaces atractivas ,funcionales y accesibles. 💻🚀
 ***
 
 ## 💼 Proyectos Destacados
